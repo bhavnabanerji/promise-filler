@@ -1,0 +1,24 @@
+{
+  "name": "promise-filler",
+  "main": "index.js",
+  "version": "1.0.0",
+  "authors": [
+    "Bhavna Banerji"
+  ],
+  "description": "ES6 promise polyfill.",
+  "keywords": [
+    "promise",
+    "polyfill",
+    "es6",
+    "array"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ]
+}
