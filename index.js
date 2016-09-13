@@ -1,3 +1,4 @@
+// Promise filler library
 (function () {
   function Promise(fn) {
     var context = this;
