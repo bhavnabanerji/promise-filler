@@ -1,4 +1,4 @@
-// Promise filler library
+// A Promise filler library
 (function () {
   function Promise(fn) {
     var context = this;
